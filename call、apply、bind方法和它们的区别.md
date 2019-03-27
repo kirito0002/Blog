@@ -10,6 +10,8 @@
     + **如果传递为原始值(数字，字符串，布尔值)，this 指向该原始值的包装对象**
   + **arg1,arg2,...: 被调用函数的实参**
 
+  ![1553443851286](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\1553443851286.png)
+
 + ## apply方法（会执行调用这个方法的函数里的代码）
 
   **apply() 方法调用一个函数, 其具有一个指定的 this 值和作为数组提供的参数(参数数组) —— fn.apply(thisObj,[arg1,arg2,...])**
