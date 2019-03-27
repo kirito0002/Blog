@@ -61,7 +61,7 @@ function isBiggerThan10(element, index, array) {
 
 ## Array.prototype.map(callback,thisValue?)创建一个新数组，其结果是该数组中的每个元素都调用一个提供的函数后返回的结果。
 
-## filter()**方法创建一个新数组, 其包含通过所提供函数实现的测试的所有元素。 
+## Array.prototype.filter(callback,thisValue?)方法创建一个新数组, 其包含通过所提供函数实现的测试的所有元素。 
 
 
 
