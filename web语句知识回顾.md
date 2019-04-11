@@ -8,4 +8,8 @@ arr.shift()删除数组第一个
 
 arr.unshift()在数组第一个前面添加一个
 
-toUpper()把一个字符串改成大写
+toUpperCase()把一个字符串改成大写
+
+toLowerCase()转换小写
+
+nodeName()返回标签名
